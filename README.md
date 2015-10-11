@@ -4,4 +4,4 @@ This repository contains information related to the tool Evolve presented in Int
 This repository is not the original repository for this tool. 
 Here are some links to the original project: The Official Project Page: http://www.intrinsarc.com/backbone/research 
 
-In this repository, for Evolve you will find: The original tool (available) A slightly modified version of the tool Vrushti Shah got working (available) This repository was constructed by Vrushti Shah under the supervision of Emerson Murphy-Hill. Thanks to Dr. Andrew McVeigh, Dr. Jeff Kramer, and Dr. Jeff Magee for their help in establishing this repository. Amrita Das: https://github.com/vrushti1991 Emerson Murphy-Hill: https://github.com/CaptainEmerson
+In this repository, for Evolve you will find: The tool. This repository was constructed by Vrushti Shah under the supervision of Emerson Murphy-Hill. Thanks to Dr. Andrew McVeigh, Dr. Jeff Kramer, and Dr. Jeff Magee for their help in establishing this repository. Amrita Das: https://github.com/vrushti1991 Emerson Murphy-Hill: https://github.com/CaptainEmerson
