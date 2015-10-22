@@ -3,8 +3,8 @@ This repository contains information related to the tool Evolve presented in Int
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
-*[The Official Project Page](http://www.intrinsarc.com/backbone/research)  and 
-*[The link to the video of the tool](http://www.youtube.com/watch?v=fRAp4no3hFs&hd=1)
+*  [The Official Project Page](http://www.intrinsarc.com/backbone/research) 
+*  [The link to the video of the tool](http://www.youtube.com/watch?v=fRAp4no3hFs&hd=1)
 
 
  In this repository, for Evolve you will find:
