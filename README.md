@@ -1,10 +1,10 @@
 # ICSE-2011-Evolve
 This repository contains information related to the tool Evolve presented in International Conference of Software Engineering, 2013. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=1985990).
 
-This repository is not the original repository for this tool. 
-Here are some links to the original project: 
-[The Official Project Page](http://www.intrinsarc.com/backbone/research)  and 
-[The link to the video of the tool](http://www.youtube.com/watch?v=fRAp4no3hFs&hd=1)
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
+
+*[The Official Project Page](http://www.intrinsarc.com/backbone/research)  and 
+*[The link to the video of the tool](http://www.youtube.com/watch?v=fRAp4no3hFs&hd=1)
 
 
  In this repository, for Evolve you will find:
