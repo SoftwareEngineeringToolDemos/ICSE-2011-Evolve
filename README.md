@@ -11,7 +11,7 @@ This repository _is not_ the original repository for this tool. Here are some li
  * :white_check_mark: Source code (not available)
  * :white_check_mark: The original tool (available)
  
- This repository was constructed by [Vrushti Shah](https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
+This repository was constructed by [Vrushti Shah](https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
  
 I would also like to thank Dr. Andrew McVeigh and his colleagues for all their help setting up the tool.
  
