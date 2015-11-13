@@ -10,11 +10,11 @@ VM Setup using Vagrant and Chocolatey
 
 4. Use the command 'vagrant reload --provision'.
 
-4. Type in 'vagrant up --provider virtualbox' to start the machine.
-
 5. Once the box is running you can start it from the Virtual box. Open it and close it and add the command 'config.vm.provision :shell, inline: "choco install jdk7 --force -y"' to the vagrant file.
 
-6. Following can be observed:
+6. 4. Type in 'vagrant up --provider virtualbox' to start the machine.
+
+7. Following can be observed:
     Base box image is downloaded and added in Vagrant.
     
     Virtual machine is created and loaded using this VirtualBox.
@@ -25,7 +25,7 @@ VM Setup using Vagrant and Chocolatey
     
     The OS will be active for 90 days.
 
-7. If you would like to check the java version type in 'java -version'.
+8. If you would like to check the java version type in 'java -version'.
 
 References
   1. Vagrant box can be found at [datacastle/windows7](https://atlas.hashicorp.com/datacastle/boxes/windows7)
