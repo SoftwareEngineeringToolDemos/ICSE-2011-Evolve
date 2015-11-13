@@ -8,7 +8,7 @@ VM Setup using Vagrant and Chocolatey
 
 3. Open up the Vagrantfile and type in 'config.vm.provision :shell, path: "bootstrap.bat"' after the line containing config.vm.box="datacastle/windows7"
 
-4. Use the command 'vagrant reload --provision'.
+4. Use the command 'vagrant up'.
 
 5. Once the box is running you can start it from the Virtual box. Open it and close it and add the command 'config.vm.provision :shell, inline: "choco install jdk7 --force -y"' to the vagrant file.
 
