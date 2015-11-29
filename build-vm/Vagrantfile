@@ -13,8 +13,10 @@ Vagrant.configure(2) do |config|
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
   config.vm.box = "datacastle/windows7"
-  config.vm.provision :shell, path: "bootstrap.bat"
-  config.vm.provision :shell, path: "installJava.bat"
+  config.vm.provision :shell, path: "installChocolatey.bat"
+  config.vm.provision :shell, path: "installSW.bat"
+  config.vm.provision :shell, path: "powerShellDownload.bat"
+  config.vm.hostname = "duplin-jhonston-vrushti1991-Evolve"
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
